@@ -1,0 +1,19 @@
+{
+  "name": "assets-api",
+  "version": "1.0.0",
+  "description": "Asset API for Mindfull Meerkats",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:mindfulmeerkats/assets-api.git"
+  },
+  "author": "Ramon Gebben <ramon@ra-ge.net> (http://ra-ge.net)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3",
+    "serve-index": "^1.6.3"
+  }
+}
