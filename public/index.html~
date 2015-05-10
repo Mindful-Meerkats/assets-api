@@ -1,0 +1,67 @@
+<!doctype html>
+<title>Meerkat assets</title>
+
+<pre>
+<code>
+├── back_leg.png
+├── eyes.png
+├── eyes_fur.png
+├── fitness
+│   ├── +1.png
+│   ├── 0.png
+│   └── _1.png
+├── fitness_+1_aura.png
+├── happiness
+│   ├── +1.png
+│   ├── 0.png
+│   └── _1.png
+├── head_fur.png
+├── health
+│   ├── +1
+│   │   └── health_+1.png
+│   └── -1
+│       ├── health_-1.png
+│       ├── health_-1_1.png
+│       ├── health_-1_2.png
+│       └── health_-1_3.png
+├── hill
+│   ├── +1.png
+│   ├── 0.png
+│   └── _1.png
+├── pawprint_back
+│   ├── +1.png
+│   ├── 0.png
+│   └── _1.png
+├── pawprint_front
+│   ├── pawprint_front_+1.png
+│   ├── pawprint_front_-1.png
+│   └── pawprint_front_0.png
+├── reputation
+│   ├── +1.png
+│   ├── +2.png
+│   ├── +3.png
+│   └── _1.png
+├── sweat_thrift.png
+├── thirft_mode_on.png
+├── thriftness
+│   ├── +1
+│   │   └── +1.png
+│   ├── -1
+│   │   └── _1.png
+│   └── 0
+│       └── 0.png
+└── wisdom
+    ├── minus
+    │   ├── _1_1.png
+    │   ├── _1_2.png
+    │   └── _1_3.png
+    ├── neutral
+    │   └── 0.png
+    └── plus
+        ├── +1_1.png
+        ├── +1_2.png
+        ├── +1_3.png
+        ├── +1_4.png
+        └── +1_5.png
+</code>
+</pre>
